@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HealthCareApp<health-care>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.health.org.HealthCareApp",
+            "projectName": "health-care",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
